@@ -2,7 +2,7 @@
 
 Sequences from Fetch Pick&amp;Place simulation useful for training models or offline RL algorithms.
 
-There are two types of sequences: scripted or APEX
+There are two types of sequences: **scripted** or **APEX**
 
 ## Scripted
 Here the motor commands are scripted with some motor noise added. There are 3 different types of event sequences 
