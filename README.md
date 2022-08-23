@@ -7,7 +7,7 @@ There are two types of sequences: scripted or APEX
 ## Scripted
 Here the motor commands are scripted with some motor noise added. There are 3 different types of event sequences 
 
-<img src="gifs/varTable_grasp.gif" alt="grasp" width="300"/> <img src="gifs/varTable_point.gif" alt="grasp" width="300"/> <img src="gifs/varTable_stretch.gif" alt="grasp" width="300"/>
+<img src="gifs/varTable_grasp.gif" alt="grasp" width="250"/> <img src="gifs/varTable_point.gif" alt="grasp" width="250"/> <img src="gifs/varTable_stretch.gif" alt="grasp" width="250"/>
 
 - **grasp**: Gripper moves to object, closes its fingers, and lifts the object to the goal position.
 - **point**: Gripper moves to goal position.
